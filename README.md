@@ -4,6 +4,7 @@ A simple implementation of the classic Snake Game using **Python** and the **Tur
 Built completely from scratch with Object-Oriented Programming principles.
 
 <img width="415" height="432" alt="image" src="https://github.com/user-attachments/assets/39f8a8a4-fb1c-43a5-aa2f-2547f7f89746" />
+<img width="416" height="436" alt="image" src="https://github.com/user-attachments/assets/57ba6bb4-91d4-42ec-9f13-cb4a15f204ee" />
 
 ---
 
